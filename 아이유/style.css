@@ -1,0 +1,19 @@
+body {
+    background-color:#142850;
+    color: rgba(200, 255, 0, 0.651);
+    
+}
+hr{
+    height: 10px;
+    background-color: white;
+}
+h3{
+    color: violet;
+}
+h1,h2,h3,h4,h5,h6{
+    color: #fab7b7;
+}
+a{
+    text-decoration: none;
+    color:#fab7b7;
+}
